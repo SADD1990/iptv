@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2025-08-27T12:00:00Z",
+  "matches": [
+    {
+      "league": "UEFA CL",
+      "status": "LIVE",
+      "home": { "name": "ريال مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
+      "away": { "name": "برشلونة",    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
+      "time": "22:00",
+      "channel": "beIN Sports 1",
+      "score": "2–1"
+    },
+    {
+      "league": "EPL",
+      "status": "UPCOMING",
+      "home": { "name": "ليفربول",  "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg" },
+      "away": { "name": "مانشستر سيتي", "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg" },
+      "time": "19:30",
+      "channel": "beIN Sports 2"
+    },
+    {
+      "league": "Ligue 1",
+      "status": "FINISHED",
+      "home": { "name": "باريس سان جيرمان", "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" },
+      "away": { "name": "ليون",            "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg" },
+      "channel": "beIN Sports XTRA",
+      "score": "2–0",
+      "time": "أمس"
+    },
+    {
+      "league": "Serie A",
+      "status": "UPCOMING",
+      "home": { "name": "يوفنتوس", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg" },
+      "away": { "name": "إنتر ميلان", "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg" },
+      "time": "21:45",
+      "channel": "beIN Sports 3"
+    },
+    {
+      "league": "LaLiga",
+      "status": "UPCOMING",
+      "home": { "name": "أتلتيكو مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg" },
+      "away": { "name": "إشبيلية",       "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg" },
+      "time": "20:00",
+      "channel": "beIN Sports 4"
+    }
+  ]
+}
