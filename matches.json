@@ -64,6 +64,36 @@
       "score": "",
       "channel": ""
     },
+    "home": {
+        "name": "بنفيكا",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/07/888.png?ssl=1"
+      },
+      "away": {
+        "name": "فنربخشة",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/946.png?ssl=1"
+      },
+      "time": "20:00",
+      "status": "جارية الان",
+      "league": "أوروبا, تصفيات ابطال اوروبا - بلاي اوف",
+      "url": "https://www.siiir.tv/matches/%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7-%d9%88-%d9%81%d9%86%d8%b1%d8%a8%d8%ae%d8%b4%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a7%d8%a8%d8%b7%d8%a7/",
+      "score": "",
+      "channel": ""
+    },
+    "home": {
+        "name": "سيلتا فيجو",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/158.png?ssl=1"
+      },
+      "away": {
+        "name": "ريال بيتيس",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/146.png?ssl=1"
+      },
+      "time": "20:00",
+      "status": "جارية الان",
+      "league": "إسبانيا, الدوري الإسباني",
+      "url": "https://www.siiir.tv/matches/%d8%b3%d9%8a%d9%84%d8%aa%d8%a7-%d9%81%d9%8a%d8%ac%d9%88-%d9%88-%d8%b1%d9%8a%d8%a7%d9%84-%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3-%d9%81%d9%8a-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%af%d9%88/",
+      "score": "",
+      "channel": ""
+    },
     {
       "home": {
         "name": "كلوب بروج",
@@ -82,6 +112,7 @@
     }
   ]
 }
+
 
 
 
