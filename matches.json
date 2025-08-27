@@ -1,48 +1,84 @@
 {
-  "updatedAt": "2025-08-27T12:00:00Z",
   "matches": [
     {
-      "league": "UEFA CL",
-      "status": "LIVE",
-      "home": { "name": "ريال مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
-      "away": { "name": "برشلونة",    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
-      "time": "22:00",
-      "channel": "beIN Sports 1",
-      "score": "2–1"
+      "home": {
+        "name": "فيهين فيسبادن",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/356.png?ssl=1"
+      },
+      "away": {
+        "name": "بايرن ميونخ",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/331.png?ssl=1"
+      },
+      "time": "19:45",
+      "status": "جارية الان",
+      "league": "ألمانيا, كأس المانيا - دور الـ64",
+      "url": "https://www.siiir.tv/matches/%d9%81%d9%8a%d9%87%d9%8a%d9%86-%d9%81%d9%8a%d8%b3%d8%a8%d8%a7%d8%af%d9%86-%d9%88-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%81%d9%8a-%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7/",
+      "score": "",
+      "channel": ""
     },
     {
-      "league": "EPL",
-      "status": "UPCOMING",
-      "home": { "name": "ليفربول",  "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg" },
-      "away": { "name": "مانشستر سيتي", "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg" },
-      "time": "19:30",
-      "channel": "beIN Sports 2"
-    },
-    {
-      "league": "Ligue 1",
-      "status": "FINISHED",
-      "home": { "name": "باريس سان جيرمان", "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" },
-      "away": { "name": "ليون",            "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20250207192243%21Logo_Olympique_Lyonnais_-_2022.svg" },
-      "channel": "beIN Sports XTRA",
-      "score": "2–0",
-      "time": "أمس"
-    },
-    {
-      "league": "Serie A",
-      "status": "UPCOMING",
-      "home": { "name": "يوفنتوس", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg" },
-      "away": { "name": "إنتر ميلان", "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg" },
-      "time": "21:45",
-      "channel": "beIN Sports 3"
-    },
-    {
-      "league": "LaLiga",
-      "status": "UPCOMING",
-      "home": { "name": "أتلتيكو مدريد", "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg" },
-      "away": { "name": "إشبيلية",       "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg" },
+      "home": {
+        "name": "بنفيكا",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/07/888.png?ssl=1"
+      },
+      "away": {
+        "name": "فنربخشة",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/946.png?ssl=1"
+      },
       "time": "20:00",
-      "channel": "beIN Sports 4"
+      "status": "جارية الان",
+      "league": "أوروبا, تصفيات ابطال اوروبا - بلاي اوف",
+      "url": "https://www.siiir.tv/matches/%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7-%d9%88-%d9%81%d9%86%d8%b1%d8%a8%d8%ae%d8%b4%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a7%d8%a8%d8%b7%d8%a7/",
+      "score": "",
+      "channel": ""
+    },
+    {
+      "home": {
+        "name": "سيلتا فيجو",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/158.png?ssl=1"
+      },
+      "away": {
+        "name": "ريال بيتيس",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/146.png?ssl=1"
+      },
+      "time": "20:00",
+      "status": "جارية الان",
+      "league": "إسبانيا, الدوري الإسباني",
+      "url": "https://www.siiir.tv/matches/%d8%b3%d9%8a%d9%84%d8%aa%d8%a7-%d9%81%d9%8a%d8%ac%d9%88-%d9%88-%d8%b1%d9%8a%d8%a7%d9%84-%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3-%d9%81%d9%8a-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%af%d9%88/",
+      "score": "",
+      "channel": ""
+    },
+    {
+      "home": {
+        "name": "غريمسبي تاون",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/62.png?ssl=1"
+      },
+      "away": {
+        "name": "مانشستر يونايتد",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/07/105.png?ssl=1"
+      },
+      "time": "20:00",
+      "status": "جارية الان",
+      "league": "إنجلترا, كأس الكاراباو - الدور 2",
+      "url": "https://www.siiir.tv/matches/%d8%ba%d8%b1%d9%8a%d9%85%d8%b3%d8%a8%d9%8a-%d8%aa%d8%a7%d9%88%d9%86-%d9%88-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%81%d9%8a-%d8%a5%d9%86%d8%ac%d9%84/",
+      "score": "",
+      "channel": ""
+    },
+    {
+      "home": {
+        "name": "كلوب بروج",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/1169.png?ssl=1"
+      },
+      "away": {
+        "name": "رينجرز",
+        "logo": "https://i0.wp.com/www.siiir.tv/wp-content/uploads/2025/08/753.png?ssl=1"
+      },
+      "time": "20:00",
+      "status": "جارية الان",
+      "league": "أوروبا, تصفيات ابطال اوروبا - بلاي اوف",
+      "url": "https://www.siiir.tv/matches/%d9%83%d9%84%d9%88%d8%a8-%d8%a8%d8%b1%d9%88%d8%ac-%d9%88-%d8%b1%d9%8a%d9%86%d8%ac%d8%b1%d8%b2-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a7%d8%a8%d8%b7/",
+      "score": "",
+      "channel": ""
     }
   ]
 }
-
