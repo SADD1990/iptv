@@ -22,7 +22,7 @@
       "league": "Ligue 1",
       "status": "FINISHED",
       "home": { "name": "باريس سان جيرمان", "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" },
-      "away": { "name": "ليون",            "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg" },
+      "away": { "name": "ليون",            "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20250207192243%21Logo_Olympique_Lyonnais_-_2022.svg" },
       "channel": "beIN Sports XTRA",
       "score": "2–0",
       "time": "أمس"
@@ -45,3 +45,4 @@
     }
   ]
 }
+
